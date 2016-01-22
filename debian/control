@@ -1,0 +1,14 @@
+Source: madterky
+Section: gnome
+Priority: optional
+Maintainer: Igor Dyatlov <dyatlov.igor@gmail.com>
+Homepage: https://github.com/igor-dyatlov/madterky-plank-theme
+Build-Depends: debhelper (>= 7)
+Version: 1.0
+
+Package: madterky
+Architecture: all
+Installed-Size: 2618 
+Depends: ${misc:Depends}, plank
+Description: Madterky theme for Plank made in the Material Designfor Google
+

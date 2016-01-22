@@ -2,10 +2,10 @@
 
 [![License](https://poser.pugx.org/pugx/badge-poser/license)](http://opensource.org/licenses/MIT)
 
-$ theme for Plank made in the Material Designfor Google
+Madterky theme for Plank made in the Material Design for Google
  
-![Screenshots] (https://raw.githubusercontent.com/igor-dyatlov//master/Screenshots/Screenshots_1.png) 
-![Screenshots] (https://raw.githubusercontent.com/igor-dyatlov//master/Screenshots/Screenshots_2.png)
+![Screenshots] (https://raw.githubusercontent.com/igor-dyatlov/madterky-plank-theme/master/Screenshots/Screenshots_1.png) 
+![Screenshots] (https://raw.githubusercontent.com/igor-dyatlov/madterky-plank-theme/master/Screenshots/Screenshots_2.png)
 
 ## Installation
 
@@ -23,9 +23,9 @@ Run from source folder:
 
 Run in the console:
 
-    sudo add-apt-repository ppa:/dyatlov-igor/$Coming soon
+    sudo add-apt-repository ppa:/dyatlov-igor/madterky
     sudo apt-get update
-    sudo apt-get install $Coming soon
+    sudo apt-get install madterky
 
 ### Donate
 https://www.paypal.me/IgorDyatlov 
